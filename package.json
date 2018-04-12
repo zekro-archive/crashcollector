@@ -1,0 +1,11 @@
+{
+  "name": "crascollector",
+  "version": "1.0.1",
+  "description": "Small module for better crash logs and crash log saves",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Ringo Hoffmann (zekro Development)",
+  "license": "MIT"
+}
