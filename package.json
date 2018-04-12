@@ -1,6 +1,6 @@
 {
-  "name": "crascollector",
-  "version": "1.0.1",
+  "name": "crashcollector",
+  "version": "1.0.0",
   "description": "Small module for better crash logs and crash log saves",
   "main": "src/index.js",
   "scripts": {
