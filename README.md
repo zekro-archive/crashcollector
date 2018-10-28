@@ -16,7 +16,7 @@ npm install crashcollector --save
 
 # Usage
 
-Just pull out the **`CrashCollector`** class out of the requirement and create a new instance of it in one of your files liek following:
+Just pull out the **`CrashCollector`** class out of the requirement and create a new instance of it in one of your files like following:
 
 ```js
 // Inclunding class CrashCollector from module
